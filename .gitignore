@@ -1,0 +1,5 @@
+# Ignore IntelliJ IDEA project directory
+.idea/
+
+# Ignore IntelliJ IDEA .iml files
+*.iml
